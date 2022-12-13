@@ -40,4 +40,5 @@ $$ \sin \alpha \sin \beta ={\frac  {\cos(\alpha -\beta )-\cos(\alpha +\beta )}{2
 
 
 
+![girlianda](https://user-images.githubusercontent.com/78523110/207257531-551ba6fa-454e-4574-ab40-af055a90b6e7.jpg)
 
