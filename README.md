@@ -38,14 +38,14 @@ $$ \sin \alpha \sin \beta ={\frac  {\cos(\alpha -\beta )-\cos(\alpha +\beta )}{2
 ![lagrida_latex_editor (7)](https://user-images.githubusercontent.com/114472390/200511243-b5ed48a0-6859-47a9-a4aa-06910ed1bc58.png)
 #
 
-'''mermaid
+```mermaid
 flowchart LR
 
 A[Hard] -->|Text| B(Round)
 B --> C{Decision}
 C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
-'''
+```
 
 
 [Ссылка на Тильду](http://kvantoriumproject.ru/pathfinderweb)
