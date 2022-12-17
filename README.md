@@ -41,10 +41,10 @@ $$ \sin \alpha \sin \beta ={\frac  {\cos(\alpha -\beta )-\cos(\alpha +\beta )}{2
 ```mermaid
 flowchart LR
 
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
+A[10 Класс] -->|Аттестация| B(11 Класс)
+B --> C{ЕГЭ}
+C -->|Плохо| D[Армия]
+C -->|Хорошо| E[ВУЗ]
 ```
 
 
