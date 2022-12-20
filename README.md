@@ -49,3 +49,5 @@ C -->|Хорошо| E[ВУЗ]
 
 
 [Ссылка на Тильду](http://kvantoriumproject.ru/pathfinderweb)
+
+[Ссылка на Genially](https://view.genial.ly/63a156088f2a620012dbe3ae/interactive-image-interactive-image)
